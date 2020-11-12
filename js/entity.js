@@ -3,6 +3,7 @@ class Entity {
         this.fixed = fixed;
         this.x = x;
         this.y = y;
+        this.collisionCount = 0;
     }
 }
 
